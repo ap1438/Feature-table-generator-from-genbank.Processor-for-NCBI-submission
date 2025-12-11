@@ -6,11 +6,11 @@ Convert GenBank files (.gb) to NCBI-compliant feature tables (.tbl) with automat
 
 Single file:
 ```bash
-python genbank_processor_VD1.py input.gb
+python genbank_processor.py input.gb
 Batch processing:
 
 bash
-python genbank_processor_VD1.py -i input_dir/ -o output_dir/
+python genbank_processor.py -i input_dir/ -o output_dir/
 
 Features
 NCBI-compliant output
