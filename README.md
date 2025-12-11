@@ -3,9 +3,9 @@
 Convert GenBank files (.gb) to NCBI-compliant feature tables (.tbl) with automatic post-processing.
 
 ## Quick Start
-
+```
 Single file:
-```bash
+bash
 python genbank_processor.py input.gb
 Batch processing:
 
