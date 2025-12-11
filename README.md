@@ -13,11 +13,7 @@ bash
 python genbank_processor_VD1.py -i input_dir/ -o output_dir/
 
 Features
-
-✅ 4 Post-processing rules
-✅ Production-grade code
-✅ NCBI-compliant output
-✅ Full documentation
+NCBI-compliant output
 Documentation
 
     Quick Reference
